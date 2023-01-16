@@ -79,3 +79,14 @@
     background-color: rgb(220, 220, 220);
     margin-bottom: 5px;
 }
+
+@media screen and (max-width:1400px){
+    
+    .nat{
+        font-size: 0.8em;
+    }
+
+    .int{
+        font-size: 0.8em ;
+    }
+}

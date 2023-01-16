@@ -116,11 +116,13 @@ header li img{
     }
 
     .sub-menu li a{
-        background-color: white;
+        background-color: rgb(220,220,220);
+        margin-top: -70px;
+        margin-bottom: 50px;
     }
 
     .sub-menu li:hover a{
-        background-color: rgb(200, 200, 200);
+        background-color: white;
     }
     
     .navbar{
